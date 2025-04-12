@@ -1,1 +1,1 @@
-# Prediction-of-epileptic-seizures-using-EEG-data
+# Predictive analytics for assessing the risk of cardiovascular diseases
